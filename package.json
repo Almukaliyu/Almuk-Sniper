@@ -1,0 +1,17 @@
+{
+  "name": "almuktradingbot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@project-serum/serum": "^0.17.3",
+    "@solana/spl-token": "^0.3.5",
+    "@solana/web3.js": "^1.73.0",
+    "node-fetch": "^2.6.7",
+    "node-telegram-bot-api": "^0.61.0",
+    "dotenv": "^16.3.1",
+    "bs58": "^5.0.0"
+  }
+}
